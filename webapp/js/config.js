@@ -26,10 +26,10 @@ var censusStateFips = "39"
 var censusCountyFips = "041,045,049,089,097,159,129"
 var censusDown = false //activate if the Census api is down for a prolonged period
 //Set where to center the map
-var centerLat = 39.993683
-var centerLong = -82.981293
+var centerLat = 42.71785358
+var centerLong = -73.80780519
 //Possible range of values for the year and severity variables (depends on your data)
-var years = [2016, 2017, 2018, 2019, 2020, 2021]
+var years = [2016, 2017, 2018, 2019, 2020, 2021,2022]
 var yearsDefault = [2019, 2021]
 var showTrends = true //false if annual data for the above years is not complete
 var monthlyTrends = true //true is chart default should be drawn based on months instead of years
@@ -37,7 +37,7 @@ var omitFinalYearFromTrends = false //true if just the last year of data is inco
 var severity = [1, 2, 3, 4, 5]
 var invertSeverity = true //true if 1 is fatal, false if 5 is fatal
 var severityDefault = [4, 5]
-var population = 1310300 //this is used in the calculation of fatal crash rates
+var population = 300000 //this is used in the calculation of fatal crash rates
 
 
 //ADVANCED DATA CONFIGURATION

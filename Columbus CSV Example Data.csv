@@ -1,0 +1,335 @@
+TYPE,OBJECTID,year,month,dayinweek,hour,road,lanes,latitude,longitude,severity,severityString
+Pedestrian,193254753,2019,11,7,18,Stewart AVE,4,39.941491,-82.983177,2,Incapacitating Injury
+Pedestrian,193254758,2019,11,2,15,Bryden RD,4,39.960669,-82.981403,2,Incapacitating Injury
+Pedestrian,193255096,2019,11,4,19,Cleveland AVE,4,40.081889,-82.951338,2,Incapacitating Injury
+Pedestrian,193255927,2019,11,7,17,Karl RD,4,40.087231,-82.975303,2,Incapacitating Injury
+Pedestrian,193255929,2019,11,6,16,Clime RD,2,39.927589,-83.090499,2,Incapacitating Injury
+Pedestrian,193257287,2019,12,2,8,WESBURY PARK AVE,4,40.092859,-83.082454,2,Incapacitating Injury
+Pedestrian,193259147,2019,12,3,23,Como AVE,2,40.02571,-82.985673,1,Fatal
+Pedestrian,193259717,2019,12,3,19,17th AVE,2,39.999089,-82.952257,1,Fatal
+Pedestrian,193038510,2019,3,1,21,Eakin RD,2,39.937634,-83.067257,1,Fatal
+Pedestrian,193268343,2019,12,4,19,5th AVE,2,39.984846,-82.923929,1,Fatal
+Pedestrian,193272500,2019,12,1,3,TUSSING RD,2,39.927014,-82.824006,2,Incapacitating Injury
+Pedestrian,193281505,2019,12,5,18,Orel AVE,2,39.955808,-83.085851,2,Incapacitating Injury
+Pedestrian,193282338,2019,12,6,16,Olentangy River RD,4,40.05512,-83.033823,2,Incapacitating Injury
+Pedestrian,193283392,2019,12,6,4,IR 670.0,6,39.975431,-82.999954,1,Fatal
+Pedestrian,193049932,2019,3,1,14,HAGUE AVE,2,39.95247,-83.073751,2,Incapacitating Injury
+Pedestrian,193286012,2019,12,1,1,5th AVE,4,39.987094,-83.005511,2,Incapacitating Injury
+Pedestrian,193051446,2019,4,7,18,MORSE RD,6,40.060877,-82.982727,2,Incapacitating Injury
+Pedestrian,193051606,2019,4,7,23,High ST,4,39.936839,-82.996091,2,Incapacitating Injury
+Pedestrian,193054356,2019,4,5,13,ROBERTS RD,2,40.003804,-83.15694,1,Fatal
+Pedestrian,194071164,2019,3,6,16,CLEVELAND AVE,4,40.038981,-82.961821,2,Incapacitating Injury
+Pedestrian,194074488,2019,3,5,20,SULLIVANT AVE,2,39.940561,-83.125058,2,Incapacitating Injury
+Pedestrian,203042971,2020,3,5,23,HARRISBURG PKWY,2,39.939022,-83.040941,2,Incapacitating Injury
+Pedestrian,203043528,2020,3,3,7,Sullivant AVE,2,39.943747,-83.073132,2,Incapacitating Injury
+Pedestrian,193059863,2019,4,1,4,IR 270,4,39.980956,-83.118822,2,Incapacitating Injury
+Pedestrian,193060134,2019,4,7,21,SULLIVANT AVE,2,39.943631,-83.074495,2,Incapacitating Injury
+Pedestrian,194080351,2019,2,3,20,CHATTERTON RD,2,39.914404,-82.85616,2,Incapacitating Injury
+Pedestrian,193062625,2019,4,2,20,Henderson RD,4,40.054198,-83.067574,2,Incapacitating Injury
+Pedestrian,203049283,2020,3,6,15,Summit ST,2,40.010144,-83.000293,2,Incapacitating Injury
+Pedestrian,193067419,2019,4,2,19,JAMES RD,4,39.946856,-82.915586,2,Incapacitating Injury
+Pedestrian,203053200,2020,3,2,6,Sullivant AVE,4,39.94202,-83.107022,2,Incapacitating Injury
+Pedestrian,193067762,2019,3,4,6,US ROUTE 40 E   40,6,39.953103,-83.112706,2,Incapacitating Injury
+Pedestrian,203055862,2020,4,6,12,BROAD ST SR 16,2,39.976597,-82.932454,2,Incapacitating Injury
+Pedestrian,203060520,2020,4,2,12,Sunbury RD,2,40.064252,-82.914719,1,Fatal
+Pedestrian,193075088,2019,5,7,14,Livingston AVE,4,39.946159,-82.902359,2,Incapacitating Injury
+Pedestrian,203065846,2020,4,7,3,4th ST,2,40.008503,-82.998151,1,Fatal
+Pedestrian,193084637,2019,5,7,4,VANDERBURG AVE,2,39.938202,-83.091887,2,Incapacitating Injury
+Pedestrian,193084763,2019,5,4,10,Kenny RD,2,39.99124,-83.035291,2,Incapacitating Injury
+Pedestrian,193099480,2019,5,4,20,HIAWATHA ST,2,40.026543,-82.985852,2,Incapacitating Injury
+Pedestrian,203067745,2020,4,2,19,SR 161,4,40.08508,-82.95104,2,Incapacitating Injury
+Pedestrian,203070646,2020,5,3,22,Cleveland AVE,4,40.082657,-82.95128,1,Fatal
+Pedestrian,193103986,2019,6,7,15,Central AVE,2,39.962085,-83.039026,2,Incapacitating Injury
+Pedestrian,203071237,2020,3,5,14,BETH ANN DR,2,39.884511,-82.994784,2,Incapacitating Injury
+Pedestrian,193107167,2019,6,3,18,Hall RD,2,39.930756,-83.140066,2,Incapacitating Injury
+Pedestrian,193109822,2019,6,7,4,Woodcrest RD,4,39.939829,-82.856748,2,Incapacitating Injury
+Pedestrian,193112589,2019,6,3,3,IR 70,6,39.932198,-82.931173,1,Fatal
+Pedestrian,203080019,2020,5,2,17,OHIO AVE,1,39.948383,-82.9716,2,Incapacitating Injury
+Pedestrian,203080105,2020,5,7,1,APPLEBROOK CT,2,39.945857,-83.15485,2,Incapacitating Injury
+Pedestrian,193117525,2019,5,6,16,BROAD ST SR 16,4,39.97619,-82.873717,2,Incapacitating Injury
+Pedestrian,193119691,2019,6,3,11,New Albany West RD,4,40.095021,-82.823869,2,Incapacitating Injury
+Pedestrian,193120901,2019,6,6,17,Denune AVE,2,40.021598,-82.959969,2,Incapacitating Injury
+Pedestrian,193122231,2019,3,1,0,Whittier ST,4,39.942939,-82.954242,1,Fatal
+Pedestrian,203089301,2020,6,3,10,Frisbee DR,2,40.052901,-82.984783,2,Incapacitating Injury
+Pedestrian,193130110,2019,7,4,23,Broad ST,4,39.980329,-82.835521,2,Incapacitating Injury
+Pedestrian,203091980,2020,5,1,1,Park ST,4,39.97239,-83.004606,2,Incapacitating Injury
+Pedestrian,203091995,2020,6,6,21,DUBLIN GRANVILLE SERVICE RD,2,40.088042,-82.991782,2,Incapacitating Injury
+Pedestrian,203092286,2020,6,1,0,HENDERSON RD,4,40.05305,-83.049425,2,Incapacitating Injury
+Pedestrian,193130865,2019,7,5,21,SAWMILL RD,5,40.105648,-83.091162,2,Incapacitating Injury
+Pedestrian,203094837,2020,6,4,21,High ST,2,40.055969,-83.019879,2,Incapacitating Injury
+Pedestrian,203095783,2020,6,6,20,HUDSON ST,2,40.014267,-82.98146,2,Incapacitating Injury
+Pedestrian,203096529,2020,6,7,15,PURDUE AVE,2,40.01444,-82.95325,2,Incapacitating Injury
+Pedestrian,203096579,2020,6,6,22,Harlem RD,2,40.109988,-82.837838,2,Incapacitating Injury
+Pedestrian,203096736,2020,6,6,20,Hague AVE,2,39.941874,-83.073326,2,Incapacitating Injury
+Pedestrian,193134012,2019,7,3,22,Livingston AVE,4,39.945759,-82.894485,2,Incapacitating Injury
+Pedestrian,193135163,2019,7,7,12,BROAD ST,4,39.985775,-82.786354,2,Incapacitating Injury
+Pedestrian,203101422,2020,6,6,3,MOUND ST,4,39.956667,-82.979849,2,Incapacitating Injury
+Pedestrian,193139535,2019,7,5,7,3RD SQ,3,39.962509,-82.997998,2,Incapacitating Injury
+Pedestrian,193140979,2019,7,7,22,Main ST,4,39.956399,-82.908103,2,Incapacitating Injury
+Pedestrian,203107651,2020,7,4,17,WINDSOR AVE,2,39.997141,-82.975945,2,Incapacitating Injury
+Pedestrian,193143021,2019,7,1,0,Parsons AVE,4,39.936257,-82.98359,1,Fatal
+Pedestrian,193143658,2019,7,4,23,I 71 N  IR 71,6,40.031689,-82.995036,2,Incapacitating Injury
+Pedestrian,203108611,2020,7,1,18,Livingston AVE,2,39.946435,-82.906306,2,Incapacitating Injury
+Pedestrian,203112219,2020,7,7,20,MANOR HOUSE WAY,4,40.077467,-83.092638,2,Incapacitating Injury
+Pedestrian,203112565,2020,7,3,15,Sullivant AVE,4,39.942477,-83.097638,1,Fatal
+Pedestrian,193148882,2019,8,5,16,Gender RD,2,39.918167,-82.823938,1,Fatal
+Pedestrian,203113017,2020,7,4,7,Alum Creek DR,4,39.928143,-82.938282,2,Incapacitating Injury
+Pedestrian,203113954,2020,7,5,2,Sullivant AVE,2,39.949927,-83.03934,1,Fatal
+Pedestrian,203115101,2020,7,7,16,Broad ST,2,39.959838,-83.016649,2,Incapacitating Injury
+Pedestrian,203115198,2020,7,7,22,REFUGEE RD,4,39.915299,-82.876582,1,Fatal
+Pedestrian,193152932,2019,8,3,20,Miller AVE,2,39.947606,-82.962355,2,Incapacitating Injury
+Pedestrian,196182880,2019,9,2,22,Westerville RD,4,40.038434,-82.951996,2,Incapacitating Injury
+Pedestrian,193154280,2019,8,5,3,I 270 E  IR 270,6,40.059296,-82.904303,2,Incapacitating Injury
+Pedestrian,196184441,2019,9,5,16,Cleveland AVE,4,40.032741,-82.963905,2,Incapacitating Injury
+Pedestrian,193157192,2019,8,1,1,Champion AVE,2,39.922996,-82.972459,2,Incapacitating Injury
+Pedestrian,203119595,2020,7,5,15,ARNELLE DR,2,39.931061,-83.095989,2,Incapacitating Injury
+Pedestrian,203119650,2020,5,1,3,REFUGEE RD,4,39.916181,-82.892201,2,Incapacitating Injury
+Pedestrian,203119803,2020,7,7,23,Livingston AVE,4,39.945753,-82.894369,1,Fatal
+Pedestrian,193162066,2019,8,7,21,Mound ST,4,39.94944,-83.022286,1,Fatal
+Pedestrian,203124034,2020,7,1,13,2nd AVE,2,39.982386,-82.997385,2,Incapacitating Injury
+Pedestrian,203124829,2020,7,6,1,IR 270 NB HWY IR 270,8,40.007918,-82.880285,1,Fatal
+Pedestrian,203126648,2020,7,6,13,Broad ST,4,39.965739,-82.970198,2,Incapacitating Injury
+Pedestrian,193169054,2019,8,7,22,Sullivant AVE,2,39.947296,-83.053325,2,Incapacitating Injury
+Pedestrian,203128307,2020,8,6,20,Broad ST,4,39.954776,-83.077587,2,Incapacitating Injury
+Pedestrian,193170933,2019,8,1,21,Main ST,4,39.957382,-82.946387,2,Incapacitating Injury
+Pedestrian,203129940,2020,8,3,2,3rd ST,2,39.963247,-82.99814,2,Incapacitating Injury
+Pedestrian,193177567,2019,9,3,3,Broad ST,4,39.982478,-82.816269,1,Fatal
+Pedestrian,203136492,2020,8,4,14,Cleveland AVE,4,40.070573,-82.95218,2,Incapacitating Injury
+Pedestrian,193179930,2019,8,4,14,ROHR RD,2,39.840261,-82.908197,2,Incapacitating Injury
+Pedestrian,203137527,2020,8,6,22,High ST,4,39.962275,-83.000665,2,Incapacitating Injury
+Pedestrian,203137611,2020,8,7,0,Alkire RD,2,39.915921,-83.071855,1,Fatal
+Pedestrian,203138468,2020,8,2,1,AGLER RD,2,40.021106,-82.928699,1,Fatal
+Pedestrian,193181559,2019,9,7,8,IR 71,6,40.001118,-82.984607,1,Fatal
+Pedestrian,193183289,2019,9,2,22,Morse RD,6,40.058141,-82.923412,1,Fatal
+Pedestrian,193184456,2019,9,4,21,JACKSON PIKE,2,39.902449,-83.025207,1,Fatal
+Pedestrian,193184967,2019,9,2,15,CENTRAL AVE,2,39.957677,-83.038166,2,Incapacitating Injury
+Pedestrian,193185700,2019,9,6,17,High ST,4,40.052484,-83.020051,2,Incapacitating Injury
+Pedestrian,193185708,2019,9,3,17,CITY PARK AVE,2,39.940319,-82.994658,2,Incapacitating Injury
+Pedestrian,193186214,2019,9,7,20,IR 70,4,39.97632,-83.118241,1,Fatal
+Pedestrian,203147358,2020,8,1,1,I 71 N  IR 71,8,39.983734,-82.984746,1,Fatal
+Pedestrian,193187335,2019,9,1,20,Webster Canyon CT,2,40.089678,-82.960034,2,Incapacitating Injury
+Pedestrian,193188033,2019,9,2,15,Summit ST,2,39.999383,-83.001204,2,Incapacitating Injury
+Pedestrian,193188140,2019,9,2,20,Cleveland AVE,4,40.099175,-82.949991,2,Incapacitating Injury
+Pedestrian,193188545,2019,9,4,6,McNaughten RD,2,39.957949,-82.83822,1,Fatal
+Pedestrian,193188840,2019,9,5,16,WINCHESTER PIKE,2,39.901269,-82.886524,2,Incapacitating Injury
+Pedestrian,194231214,2019,9,5,15,LOCKBOURNE RD,2,39.861024,-82.970266,2,Incapacitating Injury
+Pedestrian,203151965,2020,9,6,20,High ST,4,40.071785,-83.019111,1,Fatal
+Pedestrian,193194857,2019,9,3,19,Karl RD,4,40.062637,-82.977218,2,Incapacitating Injury
+Pedestrian,203154871,2020,9,2,20,Broad ST,4,39.955363,-83.065152,1,Fatal
+Pedestrian,193200571,2019,10,4,23,LOCKBOURNE RD,2,39.891286,-82.967864,1,Fatal
+Pedestrian,203159256,2020,9,2,19,Cleveland AVE,2,40.008041,-82.970868,2,Incapacitating Injury
+Pedestrian,193202023,2019,10,6,18,Stelzer RD,6,40.057821,-82.91512,2,Incapacitating Injury
+Pedestrian,203160518,2020,9,5,17,HOLT RD,2,39.90101,-83.1193,2,Incapacitating Injury
+Pedestrian,193204249,2019,10,1,20,Westerville RD,2,40.065683,-82.932393,2,Incapacitating Injury
+Pedestrian,193204255,2019,10,5,14,Cleveland AVE,4,39.993761,-82.981645,2,Incapacitating Injury
+Pedestrian,203162645,2020,9,1,20,Tamarack BLVD,4,40.085464,-82.969686,1,Fatal
+Pedestrian,193207386,2019,10,6,0,Broad ST,4,39.966322,-82.965067,2,Incapacitating Injury
+Pedestrian,193208540,2019,10,7,14,Long ST,4,39.968743,-82.959923,2,Incapacitating Injury
+Pedestrian,203168867,2020,10,7,14,RICKENBACKER AVE,2,39.963302,-82.89042,2,Incapacitating Injury
+Pedestrian,203170136,2020,10,6,19,SAWMILL RD,4,40.090965,-83.091794,2,Incapacitating Injury
+Pedestrian,203172509,2020,10,2,0,Alley ALY,2,39.950352,-83.034297,1,Fatal
+Pedestrian,203176247,2020,10,6,21,LIVINGSTON AVE,4,39.947899,-82.934366,2,Incapacitating Injury
+Pedestrian,203178576,2020,10,2,15,Russell ST,2,39.975922,-83.0006,2,Incapacitating Injury
+Pedestrian,193213366,2019,10,4,6,GENDER RD,4,39.910005,-82.824286,2,Incapacitating Injury
+Pedestrian,203180926,2020,10,7,19,YEARLING RD,4,39.979674,-82.884548,2,Incapacitating Injury
+Pedestrian,203184325,2020,10,7,7,BROAD ST SR 16.0,4,39.976164,-82.873984,2,Incapacitating Injury
+Pedestrian,193216209,2019,10,7,21,Dellwood AVE,2,39.946524,-82.893307,2,Incapacitating Injury
+Pedestrian,203187217,2020,10,7,10,Cleveland AVE,4,40.093554,-82.950457,2,Incapacitating Injury
+Pedestrian,203187388,2020,10,6,18,Sullivant AVE,4,39.94271,-83.09324,1,Fatal
+Pedestrian,193219044,2019,10,3,8,Whittier ST,4,39.943523,-82.970572,2,Incapacitating Injury
+Pedestrian,203189948,2020,10,5,7,Hampton RD,2,39.95102,-82.911806,2,Incapacitating Injury
+Pedestrian,203189951,2020,10,5,7,Hampton RD,2,39.95102,-82.911806,2,Incapacitating Injury
+Pedestrian,203189987,2020,11,3,6,Broad ST,4,39.986535,-82.779611,1,Fatal
+Pedestrian,193222046,2019,10,7,20,SULLIVANT RD,4,39.942477,-83.097638,2,Incapacitating Injury
+Pedestrian,203194659,2020,11,6,18,Livingston AVE,4,39.948925,-82.954833,2,Incapacitating Injury
+Pedestrian,203195511,2020,11,1,14,High ST,4,39.975632,-83.003266,2,Incapacitating Injury
+Pedestrian,193229742,2019,11,7,20,Stelzer RD,4,40.008528,-82.912302,2,Incapacitating Injury
+Pedestrian,203199066,2020,11,4,19,MORSE RD,4,40.060646,-82.977353,1,Fatal
+Pedestrian,203199597,2020,11,7,19,Mound ST,4,39.947855,-83.028252,2,Incapacitating Injury
+Pedestrian,203201218,2020,11,2,11,MAIN ST,4,39.956715,-82.918758,2,Incapacitating Injury
+Pedestrian,203202775,2020,11,3,19,Central AVE,4,39.955757,-83.037768,2,Incapacitating Injury
+Pedestrian,203203585,2020,11,4,16,DREXEL AVE US 40.0,2,39.962464,-82.937673,2,Incapacitating Injury
+Pedestrian,193237958,2019,11,1,21,IR 70.0,6,39.976661,-83.133236,2,Incapacitating Injury
+Pedestrian,203209154,2020,11,5,23,Refugee RD,4,39.915117,-82.8733,2,Incapacitating Injury
+Pedestrian,203219037,2020,12,7,3,I 71 S  IR 71.0,8,39.944067,-83.012883,2,Incapacitating Injury
+Pedestrian,194291578,2019,12,4,11,SCHROCK RD,4,40.108502,-82.92735,2,Incapacitating Injury
+Pedestrian,193246239,2019,11,2,12,RICHARDSON AVE,2,39.948906,-83.067609,2,Incapacitating Injury
+Pedestrian,194292525,2019,12,1,1,GANTZ RD,2,39.898967,-83.055146,2,Incapacitating Injury
+Pedestrian,203223896,2020,12,4,18,PARSONS AVE,4,39.923755,-82.984509,2,Incapacitating Injury
+Pedestrian,203229685,2020,12,5,7,WALCUTT RD,2,40.011243,-83.140269,2,Incapacitating Injury
+Pedestrian,194297457,2019,12,1,2,ROBERTS RD,2,39.999996,-83.18615,2,Incapacitating Injury
+Pedestrian,203234137,2020,12,7,21,SULLIVANT AVE,2,39.946205,-83.059127,2,Incapacitating Injury
+Pedestrian,196271911,2019,12,2,17,FERRIS RD,2,40.048911,-82.948708,2,Incapacitating Injury
+Pedestrian,204042098,2020,2,1,23,I 270 W  IR 270.0,4,39.887718,-83.031151,2,Incapacitating Injury
+Pedestrian,203237634,2020,12,2,4,Cleveland AVE,2,40.003164,-82.973907,2,Incapacitating Injury
+Pedestrian,202013602,2020,1,6,19,ALUM CREEK DR,4,39.887589,-82.930294,1,Fatal
+Pedestrian,202031968,2020,2,7,3,I 270 E  IR 270.0,4,39.888249,-83.032106,1,Fatal
+Pedestrian,202060943,2020,4,5,21,AGLER RD,2,40.026971,-82.951825,1,Fatal
+Pedestrian,202067825,2020,4,2,22,US 62.0,2,39.928129,-83.054816,1,Fatal
+Pedestrian,202073900,2020,5,5,13,SR 161.0,4,40.082084,-82.916201,1,Fatal
+Pedestrian,202074297,2020,4,5,0,US 62.0,2,39.936045,-83.043306,1,Fatal
+Pedestrian,202079177,2020,5,6,5,I 270 W  IR 270.0,6,39.898828,-83.051767,1,Fatal
+Pedestrian,202086884,2020,6,5,4,I 270 W  IR 270.0,6,39.923346,-83.119455,1,Fatal
+Pedestrian,206001867,2020,1,2,11,Reed RD,4,40.051465,-83.066923,2,Incapacitating Injury
+Pedestrian,202168971,2020,10,2,20,BROAD ST US 40.0,6,39.95371,-83.099575,1,Fatal
+Pedestrian,202183697,2020,10,3,20,US 40.0,6,39.953873,-83.096578,1,Fatal
+Pedestrian,213093023,2021,5,2,21,Livingston AVE,2,39.947643,-82.929505,2,Incapacitating Injury
+Pedestrian,213095851,2021,6,6,19,Sullivant AVE,2,39.94043,-83.124281,2,Incapacitating Injury
+Pedestrian,192039314,2019,3,7,21,BROWN RD,2,39.919103,-83.036828,1,Fatal
+Pedestrian,213098100,2021,6,3,21,CROSSCREEK DR,2,39.909058,-82.866948,2,Incapacitating Injury
+Pedestrian,202224735,2020,12,7,22,US ROUTE 40 E  US 40.0,4,39.950525,-83.166839,1,Fatal
+Pedestrian,213098586,2021,6,4,0,James RD,4,39.953244,-82.915191,2,Incapacitating Injury
+Pedestrian,192278667,2019,12,6,23,US ROUTE 40 E  US 40.0,4,39.952298,-83.128887,1,Fatal
+Pedestrian,192283618,2019,12,2,4,WINCHESTER PIKE,2,39.901022,-82.88597,1,Fatal
+Pedestrian,203000580,2020,1,6,14,High ST,4,39.949894,-82.998267,2,Incapacitating Injury
+Pedestrian,213099452,2021,6,6,12,MAIN ST US 40.0,4,39.956221,-82.902167,2,Incapacitating Injury
+Pedestrian,193000189,2019,1,5,20,Livingston AVE,4,39.945959,-82.898713,2,Incapacitating Injury
+Pedestrian,193001118,2019,1,2,20,Broad ST,4,39.95686,-83.045078,1,Fatal
+Pedestrian,193001439,2019,1,2,18,Refugee RD,4,39.91515,-82.873882,2,Incapacitating Injury
+Pedestrian,213103410,2021,6,5,23,HAMILTON RD,4,39.925857,-82.879616,2,Incapacitating Injury
+Pedestrian,213103744,2021,6,4,0,Karl RD,4,40.086369,-82.975361,1,Fatal
+Pedestrian,193002543,2019,1,6,15,Linworth RD,2,40.07267,-83.043331,2,Incapacitating Injury
+Pedestrian,204091698,2020,5,3,21,CLEVELAND AVE,4,40.040662,-82.961105,2,Incapacitating Injury
+Pedestrian,204091765,2020,5,6,4,I 270 W  IR 270.0,6,39.90131,-83.06151,2,Incapacitating Injury
+Pedestrian,203001790,2020,1,2,12,ALUM CREEK DR,4,39.925496,-82.935746,1,Fatal
+Pedestrian,213106601,2021,5,7,9,MORSE RD,6,40.060203,-82.966641,2,Incapacitating Injury
+Pedestrian,213110916,2021,6,5,17,Linbrook BLVD,4,40.103541,-83.051491,2,Incapacitating Injury
+Pedestrian,193012461,2019,1,2,20,TUTTLE CROSSING BLVD,4,40.075106,-83.140136,2,Incapacitating Injury
+Pedestrian,193012474,2019,1,6,11,BROAD ST,6,39.96252,-82.997992,2,Incapacitating Injury
+Pedestrian,213113913,2021,6,6,13,CLIFTON AVE,2,39.971324,-82.945548,2,Incapacitating Injury
+Pedestrian,193017077,2019,2,2,19,Whittier ST,4,39.943576,-82.971778,1,Fatal
+Pedestrian,193017985,2019,2,7,8,I 270 E  IR 270,8,39.985839,-83.118864,2,Incapacitating Injury
+Pedestrian,193020642,2019,2,2,19,Cleveland AVE,4,40.050638,-82.953711,1,Fatal
+Pedestrian,206121850,2020,7,3,4,Cassady AVE,2,40.005654,-82.929804,2,Incapacitating Injury
+Pedestrian,213116229,2021,7,6,10,HIGH ST,4,39.974906,-83.003109,2,Incapacitating Injury
+Pedestrian,213116259,2021,7,6,23,Main ST,4,39.957939,-82.974514,2,Incapacitating Injury
+Pedestrian,204144555,2020,8,3,0,WALKER RD,2,40.032411,-83.23577,2,Incapacitating Injury
+Pedestrian,213117254,2021,7,2,19,High ST,4,39.94386,-82.997091,2,Incapacitating Injury
+Pedestrian,193026864,2019,2,7,11,Moler ST,4,39.935067,-82.992634,2,Incapacitating Injury
+Pedestrian,213120130,2021,1,4,2,FULLERTON DR,2,39.896701,-82.865044,2,Incapacitating Injury
+Pedestrian,213121704,2021,6,3,14,Rickenbackerar PKWY,4,39.822961,-82.937588,1,Fatal
+Pedestrian,193030057,2019,2,3,16,BROAD ST SR 16,4,39.974004,-82.894642,2,Incapacitating Injury
+Pedestrian,213121895,2021,7,7,23,SR 161,4,40.087748,-82.992533,1,Fatal
+Pedestrian,193033996,2019,3,7,5,CHESTNUT ST,4,39.968009,-82.998193,2,Incapacitating Injury
+Pedestrian,213125569,2021,7,2,18,STATE ROUTE 315 S  SR 315,6,39.959815,-83.01884,2,Incapacitating Injury
+Pedestrian,213126068,2021,7,7,22,SR 161,4,40.083951,-82.945313,1,Fatal
+Pedestrian,206149395,2020,8,4,21,Cleveland AVE,4,40.037192,-82.96259,1,Fatal
+Pedestrian,213130707,2021,7,3,12,Petzinger RD,2,39.925988,-82.890965,2,Incapacitating Injury
+Pedestrian,213131892,2021,7,7,3,Alum Creek DR,2,39.938696,-82.94259,1,Fatal
+Pedestrian,213132213,2021,7,7,18,Main ST,4,39.957799,-82.969423,1,Fatal
+Pedestrian,213132719,2021,7,7,22,17TH AVE,2,39.997949,-82.9254,2,Incapacitating Injury
+Pedestrian,213134187,2021,7,2,19,Petzinger RD,2,39.929326,-82.90911,2,Incapacitating Injury
+Pedestrian,213134248,2021,7,3,3,I 270 N  IR 270,5,39.902198,-82.898027,2,Incapacitating Injury
+Pedestrian,206170464,2020,10,5,0,Cleveland AVE,4,40.032783,-82.963905,2,Incapacitating Injury
+Pedestrian,214157415,2021,7,1,21,AVERY RD,2,40.082336,-83.158357,2,Incapacitating Injury
+Pedestrian,204222177,2020,11,4,6,WESTERVILLE RD,4,40.037947,-82.952328,2,Incapacitating Injury
+Pedestrian,213141448,2021,8,7,2,BROAD ST,4,39.957361,-83.040846,2,Incapacitating Injury
+Pedestrian,214177111,2021,9,5,8,WALNUT ST,2,40.118818,-82.885736,2,Incapacitating Injury
+Pedestrian,214177300,2021,8,6,15,1ST AVE,4,39.981786,-83.044075,2,Incapacitating Injury
+Pedestrian,204238260,2020,9,2,20,GRANDVIEW AVE,4,39.984026,-83.044842,2,Incapacitating Injury
+Pedestrian,216102881,2021,6,7,22,Cleveland AVE,4,40.035659,-82.963289,2,Incapacitating Injury
+Pedestrian,213145249,2021,8,4,23,STATE ROUTE 161 E  SR 161,5,40.085643,-82.849229,2,Incapacitating Injury
+Pedestrian,213147000,2021,8,1,22,Livingston AVE,4,39.946397,-82.906259,1,Fatal
+Pedestrian,213147013,2021,8,7,10,Mound ST,2,39.948146,-83.027156,2,Incapacitating Injury
+Pedestrian,213147316,2021,8,4,18,Broad ST,4,39.955115,-83.070453,2,Incapacitating Injury
+Pedestrian,213149886,2021,6,1,3,SR 161,4,40.087871,-82.995644,1,Fatal
+Pedestrian,214202144,2021,10,6,17,ATE ST,4,40.123942,-82.930875,2,Incapacitating Injury
+Pedestrian,216159056,2021,8,5,5,3,4,40.029812,-82.958157,2,Incapacitating Injury
+Pedestrian,216163602,2021,9,2,11,Redding RD,4,40.015846,-83.069918,2,Incapacitating Injury
+Pedestrian,216165037,2021,9,2,10,CLEVELAND AVE,4,40.045154,-82.957868,2,Incapacitating Injury
+Pedestrian,216165039,2021,9,5,21,Cleveland AVE,4,40.032906,-82.963899,2,Incapacitating Injury
+Pedestrian,214248588,2021,11,5,6,12TH AVE,4,39.993345,-83.021167,2,Incapacitating Injury
+Pedestrian,212102127,2021,4,4,16,RENNER RD,2,39.982845,-83.165081,2,Incapacitating Injury
+Pedestrian,212127814,2021,7,4,8,MURRAY HILL RD,2,39.952314,-83.12928,1,Fatal
+Pedestrian,212231120,2021,11,1,3,IR 270,8,40.063969,-83.132541,1,Fatal
+Pedestrian,212262832,2021,12,6,20,SR 10,6,39.953833,-83.097303,1,Fatal
+Pedestrian,203009601,2020,1,7,18,High ST,4,39.891859,-82.996559,2,Incapacitating Injury
+Pedestrian,213000204,2021,1,7,19,Fifth AVE,2,39.984823,-82.92393,1,Fatal
+Pedestrian,213000266,2021,1,6,6,Refugee RD,4,39.917296,-82.912695,1,Fatal
+Pedestrian,213001211,2021,1,2,10,WILLIAMS RD,2,39.89215,-82.94856,2,Incapacitating Injury
+Pedestrian,215010610,2021,1,1,21,IR 70,6,39.980444,-83.221979,2,Incapacitating Injury
+Pedestrian,203012701,2020,1,5,15,STELTZER RD,4,40.0334,-82.910214,2,Incapacitating Injury
+Pedestrian,213005358,2021,1,5,18,BROAD ST,4,39.957931,-83.035948,1,Fatal
+Pedestrian,203014380,2020,1,3,16,Maize RD,2,40.061881,-82.987132,2,Incapacitating Injury
+Pedestrian,213006641,2021,1,1,12,Old Courtright RD,4,39.91628,-82.893979,2,Incapacitating Injury
+Pedestrian,203015547,2020,1,5,20,Westerville RD,2,40.062467,-82.934737,2,Incapacitating Injury
+Pedestrian,213009270,2021,1,7,20,CLEVELAND AVE,4,40.078442,-82.951577,2,Incapacitating Injury
+Pedestrian,203017291,2020,1,2,12,ROSEHILL RD,4,39.954936,-82.819146,2,Incapacitating Injury
+Pedestrian,203017597,2020,1,4,18,BROAD ST,4,39.977676,-82.860913,2,Incapacitating Injury
+Pedestrian,203023238,2020,2,4,22,High ST,4,40.003176,-83.008694,2,Incapacitating Injury
+Pedestrian,203026084,2020,2,6,23,High ST,4,39.838705,-83.00024,1,Fatal
+Pedestrian,213015093,2021,1,1,23,IR 71,9,39.904865,-83.026428,1,Fatal
+Pedestrian,213016216,2021,2,3,18,I 71 N  IR 71,7,40.079138,-82.987691,2,Incapacitating Injury
+Pedestrian,215146432,2021,8,6,22,Livingston AVE,8,40.109069,-83.087806,1,Fatal
+Pedestrian,213019477,2021,2,1,8,5TH AVE,4,39.986427,-82.988759,2,Incapacitating Injury
+Pedestrian,213019710,2021,2,5,23,40,6,39.953565,-83.102144,2,Incapacitating Injury
+Pedestrian,203029659,2020,2,3,23,3rd AVE,4,39.984866,-83.039601,2,Incapacitating Injury
+Pedestrian,203029868,2020,2,6,5,Hudson ST,4,40.013656,-82.967399,2,Incapacitating Injury
+Pedestrian,213027683,2021,2,3,22,Sinclair RD,2,40.074737,-82.998072,2,Incapacitating Injury
+Pedestrian,213029261,2021,2,4,17,Easton WAY,4,40.048077,-82.915456,2,Incapacitating Injury
+Pedestrian,213030056,2021,2,3,18,3RD ST,3,39.95782,-82.997083,2,Incapacitating Injury
+Pedestrian,213031552,2021,3,2,21,Refugee RD,4,39.917147,-82.909922,1,Fatal
+Pedestrian,213031923,2021,2,1,19,High ST,4,39.90628,-82.99538,2,Incapacitating Injury
+Pedestrian,216006216,2021,1,5,17,Cleveland AVE,2,40.032813,-82.964245,2,Incapacitating Injury
+Pedestrian,203039469,2020,3,4,17,State ST,4,39.959932,-83.002019,2,Incapacitating Injury
+Pedestrian,213038692,2021,3,7,18,Main ST,4,39.95631,-82.90542,2,Incapacitating Injury
+Pedestrian,213041357,2021,3,3,21,HAMILTON RD,4,39.924267,-82.879871,1,Fatal
+Pedestrian,203041000,2020,3,7,19,MORSE RD,6,40.057693,-82.912283,2,Incapacitating Injury
+Pedestrian,213042843,2021,3,6,16,SAWMILL RD,4,40.092232,-83.091738,2,Incapacitating Injury
+Pedestrian,213044791,2021,3,6,19,LEINSTER ST,2,39.895929,-82.847534,2,Incapacitating Injury
+Pedestrian,213047564,2021,3,6,21,TAMARACK BLVD,4,40.061679,-82.970946,2,Incapacitating Injury
+Pedestrian,213048312,2021,3,2,7,Cleveland AVE,4,40.050725,-82.953705,2,Incapacitating Injury
+Pedestrian,213049685,2021,3,3,7,5TH AVE,2,39.988033,-83.029177,2,Incapacitating Injury
+Pedestrian,213053319,2021,4,2,21,Harmon AVE,2,39.939755,-83.014776,1,Fatal
+Pedestrian,213163684,2021,9,6,1,Dennison AVE,2,39.989298,-83.008132,2,Incapacitating Injury
+Pedestrian,213057934,2021,4,1,21,SULLIVANT AVE,2,39.948712,-83.045767,2,Incapacitating Injury
+Pedestrian,213058861,2021,4,3,17,Carlton AVE,2,39.941228,-82.886963,1,Fatal
+Pedestrian,213066090,2021,4,1,4,Wilson RD,2,39.949191,-83.094842,1,Fatal
+Pedestrian,213067064,2021,4,2,14,Livingston AVE,4,39.950415,-82.976709,2,Incapacitating Injury
+Pedestrian,213167588,2021,9,6,12,MORSE RD,6,40.057957,-82.918136,2,Incapacitating Injury
+Pedestrian,213071213,2021,3,5,20,Norris RD,2,40.044281,-82.988694,1,Fatal
+Pedestrian,213074999,2021,5,4,21,I 70 W  IR 70,4,39.937966,-82.878461,2,Incapacitating Injury
+Pedestrian,213084543,2021,5,5,2,Morse RD,4,40.059361,-82.953034,1,Fatal
+Pedestrian,213087712,2021,5,1,12,Livingston AVE,2,39.94431,-82.868097,2,Incapacitating Injury
+Pedestrian,213170868,2021,8,4,14,MAIN ST,4,39.955058,-82.81181,2,Incapacitating Injury
+Pedestrian,213171062,2021,9,5,18,Ohio AVE,1,39.947221,-82.971693,1,Fatal
+Pedestrian,213090243,2021,5,4,20,Yale AVE,2,39.949986,-83.029845,2,Incapacitating Injury
+Pedestrian,213090585,2021,5,5,22,5th AVE,4,39.98539,-82.963178,1,Fatal
+Pedestrian,213091293,2021,5,6,13,WILSON RD,4,39.972812,-83.098739,2,Incapacitating Injury
+Pedestrian,213091369,2021,5,7,2,26TH AVE,2,40.008156,-82.973844,2,Incapacitating Injury
+Pedestrian,213091379,2021,5,5,22,Broad ST,4,39.954893,-83.075157,2,Incapacitating Injury
+Pedestrian,213179518,2021,9,7,18,Spring House LN,4,40.105427,-82.973554,2,Incapacitating Injury
+Pedestrian,213181562,2021,9,4,13,FIFTH AVE,4,39.985003,-82.92384,2,Incapacitating Injury
+Pedestrian,213182670,2021,9,5,7,GENDER RD,2,39.878104,-82.826083,2,Incapacitating Injury
+Pedestrian,213183465,2021,9,7,22,CENTRAL AVE,2,39.95914,-83.038463,2,Incapacitating Injury
+Pedestrian,213186344,2021,10,2,14,Hudson ST,2,40.013181,-82.956507,2,Incapacitating Injury
+Pedestrian,213190591,2021,9,7,19,STATE ROUTE 161 E  SR 161,4,40.087063,-82.971659,2,Incapacitating Injury
+Pedestrian,213191113,2021,10,6,15,DUBLIN GRANVILLE RD,2,40.083032,-82.814237,2,Incapacitating Injury
+Pedestrian,213196321,2021,10,7,18,HOMECROFT DR,2,40.023152,-82.993036,2,Incapacitating Injury
+Pedestrian,213209002,2021,10,5,22,MAIN ST,4,39.957194,-82.938152,2,Incapacitating Injury
+Pedestrian,213210205,2021,10,3,17,High ST,4,40.019889,-83.012773,2,Incapacitating Injury
+Pedestrian,213212252,2021,11,3,19,ALUM CREEK DR,4,39.925296,-82.935556,2,Incapacitating Injury
+Pedestrian,213216047,2021,11,4,19,Hague AVE,2,39.980875,-83.086035,2,Incapacitating Injury
+Pedestrian,213221442,2021,11,1,18,Wayne AVE,4,39.955407,-83.064273,2,Incapacitating Injury
+Pedestrian,213221462,2021,11,5,18,MYERS RD,2,39.936648,-82.86157,2,Incapacitating Injury
+Pedestrian,213221701,2021,11,6,20,Stelzer RD,2,40.013223,-82.911919,1,Fatal
+Pedestrian,213221851,2021,11,5,21,STATE ROUTE 161 W  SR 161,4,40.080191,-82.924349,2,Incapacitating Injury
+Pedestrian,213224812,2021,11,6,17,LIVINGSTON AVE,4,39.945491,-82.890045,2,Incapacitating Injury
+Pedestrian,213226368,2021,11,3,21,Williams RD,2,39.891491,-82.989315,2,Incapacitating Injury
+Pedestrian,213227104,2021,11,5,16,Hamilton AVE,2,39.997212,-82.980256,1,Fatal
+Pedestrian,213230032,2021,11,3,2,IR 71,8,39.985879,-82.985158,2,Incapacitating Injury
+Pedestrian,213235447,2021,11,2,21,MOUND ST,2,39.955312,-82.939559,2,Incapacitating Injury
+Pedestrian,213237323,2021,12,4,20,Main ST,4,39.956472,-82.910693,2,Incapacitating Injury
+Pedestrian,213239212,2021,12,6,14,HENDERSON RD,3,40.051459,-83.021176,2,Incapacitating Injury
+Pedestrian,213242085,2021,12,3,19,LIVINGSTON AVE,2,39.946429,-82.906307,2,Incapacitating Injury
+Pedestrian,213245264,2021,12,6,23,Vine ST,4,39.971551,-83.006326,1,Fatal
+Pedestrian,213245549,2021,11,3,17,Barnett RD,2,39.9524,-82.905741,2,Incapacitating Injury
+Pedestrian,213245627,2021,12,7,21,Joyce AVE,2,39.992377,-82.966251,2,Incapacitating Injury
+Pedestrian,213246027,2021,12,1,18,High ST,4,39.896447,-82.9953,1,Fatal
+Pedestrian,213250639,2021,12,6,23,BROAD ST,4,39.977678,-82.860895,2,Incapacitating Injury
+Pedestrian,213251770,2021,12,2,3,I 70 W  IR 70,6,39.936392,-82.88368,1,Fatal
+Pedestrian,213255867,2021,12,7,13,Weber RD,4,40.023483,-82.981515,2,Incapacitating Injury
+Pedestrian,213264823,2021,12,1,20,YEARLING RD,4,39.962573,-82.885762,2,Incapacitating Injury
+Pedestrian,213266858,2021,12,6,1,CLEVELAND AVE,4,40.019941,-82.964985,2,Incapacitating Injury
+Pedestrian,214087537,2021,3,5,20,SR 317,2,39.830138,-82.935432,2,Incapacitating Injury
+Pedestrian,214100425,2021,5,6,21,US ROUTE 40 W  US 40,4,39.95228,-83.129264,2,Incapacitating Injury
