@@ -2,12 +2,12 @@
 
 //CONTENT
 //Note: for SEO purposes you may want to also have this text hardcoded in the HTML as in the Columbus example
-var localeShortName = "Columbus"
-var localeLongName = "Columbus"
-var localeTechnicalName = "Franklin County"
-var introDescription = 'Through this interface you can explore patterns of pedestrian and cyclist crashes in the Columbus Metro area and understand their connection to different communities and built environments.'
-var aboutDescription = 'The Columbus Crash Data Explorer allows users to explore patterns of pedestrian and cyclist crashes in the Columbus Metro area and understand their connection to different communities and built environments. It\'s underlying software was developed at The Ohio State University through a <a target="_top" href="https://steamfactory.osu.edu/">STEAM Factory</a> postdoctoral research fellowship, with the support of <a target="_top" href="https://cura.osu.edu/">The Center for Urban and Regional Analysis (CURA)</a>.'
-var mapAttribution = 'Ohio DOT; Smart Columbus OS; US Census;'
+var localeShortName = "Albany"
+var localeLongName = "Albany County"
+var localeTechnicalName = "ALbany County"
+var introDescription = 'Through this interface you can explore patterns of pedestrian and cyclist crashes in the Albany area and understand their connection to different communities and built environments.'
+var aboutDescription = 'The Albany Crash Data Explorer allows users to explore patterns of pedestrian and cyclist crashes in the Albany area and understand their connection to different communities and built environments. It\'s underlying software was developed at The Ohio State University through a <a target="_top" href="https://steamfactory.osu.edu/">STEAM Factory</a> postdoctoral research fellowship, with the support of <a target="_top" href="https://cura.osu.edu/">The Center for Urban and Regional Analysis (CURA)</a>.'
+var mapAttribution = 'NYSDOT; US Census;'
 //Sources and notes on the about overlay
 var sourcesNotes = []
 sourcesNotes.push('Crash data is collected by the Ohio Department of Public Safety and Ohio Department of Transportation');
@@ -30,7 +30,7 @@ var centerLat = 42.71785358
 var centerLong = -73.80780519
 //Possible range of values for the year and severity variables (depends on your data)
 var years = [2016, 2017, 2018, 2019, 2020, 2021,2022]
-var yearsDefault = [2019, 2021]
+var yearsDefault = [2021, 2022]
 var showTrends = true //false if annual data for the above years is not complete
 var monthlyTrends = true //true is chart default should be drawn based on months instead of years
 var omitFinalYearFromTrends = false //true if just the last year of data is incomplete
