@@ -4,7 +4,7 @@
 //Note: for SEO purposes you may want to also have this text hardcoded in the HTML as in the Columbus example
 var localeShortName = "Albany"
 var localeLongName = "Albany County"
-var localeTechnicalName = "ALbany County"
+var localeTechnicalName = "Albany County"
 var introDescription = 'Through this interface you can explore patterns of pedestrian and cyclist crashes in the Albany area and understand their connection to different communities and built environments.'
 var aboutDescription = 'The Albany Crash Data Explorer allows users to explore patterns of pedestrian and cyclist crashes in the Albany area and understand their connection to different communities and built environments. It\'s underlying software was developed at The Ohio State University through a <a target="_top" href="https://steamfactory.osu.edu/">STEAM Factory</a> postdoctoral research fellowship, with the support of <a target="_top" href="https://cura.osu.edu/">The Center for Urban and Regional Analysis (CURA)</a>.'
 var mapAttribution = 'NYSDOT; US Census;'
